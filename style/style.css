@@ -1,0 +1,46 @@
+body {
+  font-family: "Family", Helvetica, Arial, sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  font-size: 15px;
+}
+
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 10%;
+  background: hsl(0, 0%, 100%);
+  color: #000;
+  border-radius: 5%;
+  margin-top: 13%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  color: #000;
+  text-align: center;
+
+  margin-left: 22px;
+  margin-right: 30px;
+}
+img {
+  border-radius: 5%;
+  align-items: center;
+  margin-top: 15px;
+  width: 90%;
+  height: 90%;
+}
+p {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
