@@ -16,22 +16,23 @@ body {
   border-radius: 5%;
 }
 
-h4 {
+h3 {
   color: #000;
   text-align: center;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin: 1em 1em 0 1em;
 }
 img {
   border-radius: 5%;
-  align-items: center;
   margin-top: 1rem;
   width: 90%;
 }
 p {
   font-size: 0.8em;
-  margin-left: 2rem;
-  margin-right: 2rem;
+}
+.main{
+
+  font-size: 1em;
+  margin: 1em 1em 2em 1em;
 }
 footer {
   text-align: center;
